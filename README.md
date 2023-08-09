@@ -13,4 +13,4 @@
   <img align="center" alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />  
 </div><br/>
 
-Movido a desafios, um apaixonado por tecnologia e futuro Desenvolvedor de Software Back End.
+Movido a desafios e um apaixonado por tecnologia.
